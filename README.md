@@ -9,18 +9,18 @@ Libera **camera**, **Go Live** e **transmissao de tela** em qualidade maxima sem
 
 - **Windows 10/11** (64-bit)
 - **Python 3.10+** — [python.org/downloads](https://python.org/downloads)
-- **Administrador** — necessario para modificar os arquivos do Discord
+- **Tor Browser** — [Tor Browser](ttps://download.torproject.org/) Opcional, porém recomendado!
 
 ---
 
-## Instalacao rapida
+## Instalacao rapida 
 
 ```
 pip install -r requirements.txt
 python main.py
 ```
 
-> Recomendado: venv
+> *Recomendado: venv*
 >
 > ```
 > python -m venv venv
