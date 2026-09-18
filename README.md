@@ -9,7 +9,7 @@ Libera **camera**, **Go Live** e **transmissao de tela** em qualidade maxima sem
 
 - **Windows 10/11** (64-bit)
 - **Python 3.10+** — [python.org/downloads](https://python.org/downloads)
-- **Tor Browser** — [Tor Browser](ttps://download.torproject.org/) Opcional, porém recomendado!
+- **Tor Browser** — [Tor Browser](https://download.torproject.org/) Opcional, porém recomendado!
 
 ---
 
