@@ -1,0 +1,18 @@
+# DiscordCrack v2.0 - BR Bypass + Quality Unlock
+# Instalar: pip install -r requirements.txt
+# Python 3.10+ requerido
+
+# Interface grafica moderna (dark mode)
+customtkinter>=5.2.0
+
+# HTTP requests (buscar proxies gratuitos)
+requests>=2.31.0
+
+# Monitorar e encerrar processos do Discord
+psutil>=5.9.0
+
+# SOCKS5 proxy support
+pysocks>=1.7.1
+
+# Imagens na UI
+Pillow>=10.0.0
