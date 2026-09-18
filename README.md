@@ -1,4 +1,4 @@
-# DiscordCrack v2.0 - BR Bypass + Quality Unlock
+# DiscordCrack v1.0 - BR Bypass + Quality Unlock
 
 Contra a censura do governo brasileiro (ANPD/2026).  
 Libera **camera**, **Go Live** e **transmissao de tela** em qualidade maxima sem Nitro.
